@@ -9,4 +9,4 @@ Printer:
   - Mendel
   - RepRap
 
-Slicer tool: (KISSlicer)[http://kisslicer.com/]
+Slicer tool: [KISSlicer](http://kisslicer.com/)
